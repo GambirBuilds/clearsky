@@ -1,0 +1,6 @@
+{
+  "name": "ClearSky - Nepal Environmental Intelligence",
+  "description": "Breathe Smarter. Live Better. A premium, responsive Nepal-first air-quality intelligence dashboard providing atmospheric insights, real-time station metrics, and health recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
